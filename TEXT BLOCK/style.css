@@ -1,0 +1,107 @@
+*
+{
+    box-sizing: border-box;
+}
+.login-buttons 
+{
+    padding: 40px 80px;
+}
+.box1
+{
+    float: left;
+    padding: 20px 20px;
+}
+.box1 a
+{
+    border: 3px solid black;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    margin: auto;
+    display: inline-block;
+    border-radius: 2%;
+    list-style: none;
+}
+.box2
+{
+    float: left;
+    padding: 20px 20px;
+}
+.box2 a
+{
+    border: 3px solid black;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: white;
+    margin: auto;
+    display: inline-block;
+    border-radius: 2%;
+    list-style: none;
+    background-color: lightseagreen;
+}
+.box2 a:hover
+{
+    background-color: lightseagreen;
+    color: black;
+}
+.box3
+{
+    float: left;
+    padding: 20px 20px;
+}
+.box3 a
+{
+    border: 3px solid black;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    margin: auto;
+    display: inline-block;
+    border-radius: 2%;
+    list-style: none;
+    background-color: lightcyan;
+}
+.box3 a:hover{
+    background-color: grey;
+    color: white;
+}
+.box4
+{
+    float: left;
+    padding: 20px 20px;
+}
+.box4 a
+{
+    border: 3px solid black;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    margin: auto;
+    display: inline-block;
+    border-radius: 2%;
+    list-style: none;
+}
+.box4 a:hover{
+    background:linear-gradient(cyan,black);
+    color: white;
+}
+.box5
+{
+    float: left;
+    padding: 20px 20px;
+}
+.box5 a
+{
+    border: 3px solid black;
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    margin: auto;
+    display: inline-block;
+    border-radius: 2%;
+    list-style: none;
+}
+.box5 a:hover{
+    background:radial-gradient(brown,black);
+    color: white;
+}
